@@ -1,5 +1,3 @@
-# Arbeitszeit-Tracker-Lite
-
 ARBEITSZEIT – ANDROID-APP (private Nutzung)
 ===========================================
 
